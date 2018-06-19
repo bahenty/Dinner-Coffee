@@ -1,2 +1,2 @@
 # Simple Restaurant site
-<h2><a href="https://aituabdiluly.github.io/dinner/">Go to this link to visit.</a></h2>
+<h2><a href="https://bahenty.github.io/Dinner-Coffee/">Go to this link to visit.</a></h2>
